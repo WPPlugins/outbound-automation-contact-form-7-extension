@@ -1,0 +1,28 @@
+CHANGE LOG FOR 0.0.1 - 05/26/2016
+Added - cf7-bd-ext.php
+Added - readme.txt
+
+CHANGE LOG FOR 0.0.2 - 07/26/2016
+Added - log.txt
+Added - /include/css
+Added - /include/images
+Added - /include/js
+Added - /include/js/bd_oa_send.js
+Added - /lib/boberdoo.php
+Added - /lib/functions.php
+Added - /lib/log.txt
+
+CHANGE LOG FOR 0.0.3 - 01/04/2017
+Changed the Tab Display and Cleaned up UI.
+
+CHANGE LOG FOR 0.0.4 - 02/01/2017
+Cleaning up code getting ready for plugin submit
+
+CHANGE LOG FOR 0.0.5 - 02/14/2017
+Chaning code to resubmit
+
+CHANGE LOG FOR 0.0.6 - 02/15/2017
+Chaning code to resubmit - again 
+
+CHANGE LOG FOR 0.0.7 - 02/172017
+Chaning code to resubmit - again x2
